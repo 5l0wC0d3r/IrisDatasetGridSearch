@@ -48,8 +48,4 @@ Feel free to modify the code and adapt it to your specific needs.
 
 - [Chetanya Bhan](https://github.com/5l0wC0d3r)
 
-### Acknowledgments
-
-Thanks to [OpenAI](https://openai.com) for the GPT-3.5 model that generated this README.
-
 
