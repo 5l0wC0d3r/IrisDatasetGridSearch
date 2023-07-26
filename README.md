@@ -1,5 +1,6 @@
 # IrisDatasetGridSearch
 
+This project demonstrates how to perform machine learning model selection and hyperparameter tuning using GridSearchCV on the Iris dataset. It takes a dataset in CSV format, performs data preprocessing, feature handling, feature reduction, feature generation, and then selects the best model based on the specified hyperparameters.
 
 ### Prerequisites
 
